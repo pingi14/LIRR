@@ -10,9 +10,6 @@ The application of SQL queries to analyse the on-time performance data of the MT
 Data Source: https://data.ny.gov/Transportation/MTA-LIRR-On-Time-Performance-Beginning-2015/6kq9-5ikh/about_data
 
 The data was downloaded from LIRR site as a .csv file containing monthly OTP (On-Time Performance) percentage data from all LIRR Branch Lines between 2015-2024.  SQL was applied to cleans the data and was then visualised via Power BI.  [Please refer to SQL Scripts applied](https://github.com/pingi14/LIRR/blob/main/SQL%20Scripts_v2.pdf)
-[SQL Scripts_v2.pdf](https://github.com/user-attachments/files/19100642/SQL.Scripts_v2.pdf)
-
-
 
 ## Key Insights
 
