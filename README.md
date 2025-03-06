@@ -6,6 +6,9 @@ In our continuous effort to understand and enhance the performance of the Metrop
 ## Executive Summary
 The application of SQL queries to analyse the on-time performance data of the MTA and LIRR has provided valuable insights into the operational strengths and areas for improvement within the network. The applied detailed analysis help in making data-informed decisions to enhance the reliability and efficiency of rail services, ultimately benefiting daily commuters and the organisation.
 
+## Video Showcase
+YouTube Link: https://youtu.be/mX93MWv1VUE
+
 ## Technical Project Information
 Data Source: https://data.ny.gov/Transportation/MTA-LIRR-On-Time-Performance-Beginning-2015/6kq9-5ikh/about_data
 
