@@ -11,4 +11,23 @@ Data Source: https://data.ny.gov/Transportation/MTA-LIRR-On-Time-Performance-Beg
 
 The data was downloaded from LIRR site as a .csv file containing monthly OTP (On-Time Performance) percentage data from all LIRR Branch Lines between 2015-2024.  SQL was applied to cleans the data and was then visualised via Power BI.  [Please refer to SQL Scripts applied](https://github.com/pingi14/LIRR/blob/main/SQL%20Scripts_v2.pdf)
 
+## Key Insights
 
+![Picture1](https://github.com/user-attachments/assets/ad18d3ee-cfdf-49d7-b013-90d10bb742e5)
+
+- Every year except 2022 the Far Rockaway proved to be the most efficient line by OTP Performance (2022 was West Hempstead - 2023 and 2024 was Port Washington)
+- 5 out of the 11 Lines (45%) overall OTP performance exceeded the 91.4% by Branch Average
+- All lines achieved the highest OTP during Off-Peak Periods
+
+![Picture2](https://github.com/user-attachments/assets/ca659201-4133-4275-bf51-b02bacdb780e)
+
+- The months of April and May experienced the lowest OTP Percentages
+- 
+![Picture3](https://github.com/user-attachments/assets/08433fe6-343a-4257-a857-7951f4026adf)
+
+- 2020 experienced the largest decline in OTP Performance (Suspected reason - COVID), but then a rapid incline incurred 12 months later
+
+![Picture4](https://github.com/user-attachments/assets/30426a39-6ad6-404e-8fa7-3542c5370e62)
+
+- as per point 1, the Far Rockaway line achieved the most months between 2015 to 2024 OTP exceeding 90%.  
+- The spike in performance at the end of 2021 showed 7 out of 11 lines (64%) achieving over 90% OTP in all months
