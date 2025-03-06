@@ -10,6 +10,9 @@ The application of SQL queries to analyse the on-time performance data of the MT
 Data Source: https://data.ny.gov/Transportation/MTA-LIRR-On-Time-Performance-Beginning-2015/6kq9-5ikh/about_data
 
 The data was downloaded from LIRR site as a .csv file containing monthly OTP (On-Time Performance) percentage data from all LIRR Branch Lines between 2015-2024.  SQL was applied to cleans the data and was then visualised via Power BI.  [Please refer to SQL Scripts applied](https://github.com/pingi14/LIRR/blob/main/SQL%20Scripts_v2.pdf)
+[SQL Scripts_v2.pdf](https://github.com/user-attachments/files/19100642/SQL.Scripts_v2.pdf)
+
+
 
 ## Key Insights
 
@@ -24,7 +27,7 @@ The data was downloaded from LIRR site as a .csv file containing monthly OTP (On
 - 2020 experienced the largest decline in OTP Performance (Suspected reason - COVID), but then a rapid incline incurred 12 months later
 ![Picture3a](https://github.com/user-attachments/assets/28e7e7f3-6b25-4214-9873-2120e250931f)
 
-- as per point 1, the Far Rockaway line achieved the most months between 2015 to 2024 OTP exceeding 90%.  
+- as per first dot point, the Far Rockaway line achieved the most months between 2015 to 2024 OTP exceeding 90%.  
 - The spike in performance at the end of 2021 showed 7 out of 11 lines (64%) achieving over 90% OTP in all months
 ![Picture4a](https://github.com/user-attachments/assets/98622903-b610-4884-a6b5-a1aa0820a356)
 
