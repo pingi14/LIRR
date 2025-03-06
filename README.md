@@ -15,23 +15,19 @@ The data was downloaded from LIRR site as a .csv file containing monthly OTP (On
 
 ![Picture1a](https://github.com/user-attachments/assets/33411744-3749-4ab8-b820-924c74f9945f)
 
-
 - Every year except 2022 the Far Rockaway proved to be the most efficient line by OTP Performance (2022 was West Hempstead - 2023 and 2024 was Port Washington)
 - 5 out of the 11 Lines (45%) overall OTP performance exceeded the 91.4% by Branch Average
 - All lines achieved the highest OTP during Off-Peak Periods
 
 ![Picture2a](https://github.com/user-attachments/assets/0e84b8ec-4ce7-4bc3-b278-5397aec43a72)
 
-
 - The months of April and May experienced the lowest OTP Percentages
   
 ![Picture3a](https://github.com/user-attachments/assets/28e7e7f3-6b25-4214-9873-2120e250931f)
 
-
 - 2020 experienced the largest decline in OTP Performance (Suspected reason - COVID), but then a rapid incline incurred 12 months later
 
 ![Picture4a](https://github.com/user-attachments/assets/98622903-b610-4884-a6b5-a1aa0820a356)
-
 
 - as per point 1, the Far Rockaway line achieved the most months between 2015 to 2024 OTP exceeding 90%.  
 - The spike in performance at the end of 2021 showed 7 out of 11 lines (64%) achieving over 90% OTP in all months
