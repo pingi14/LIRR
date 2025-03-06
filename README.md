@@ -28,3 +28,8 @@ The data was downloaded from LIRR site as a .csv file containing monthly OTP (On
 - The spike in performance at the end of 2021 showed 7 out of 11 lines (64%) achieving over 90% OTP in all months
 ![Picture4a](https://github.com/user-attachments/assets/98622903-b610-4884-a6b5-a1aa0820a356)
 
+## Recommendations
+- Extensive focus on the Port Jefferson, Montauk and Huntington lines as they have the lowest average OTP for the previous three years
+
+## Assumptions & Caveats
+- LIRR data for incidents was not incorporated on this analysis.  Thus, findings on OTP data may not be 100% conclusive.  Incidents surrounding these lines, that may/may not be the cause of runs arriving within 6 minutes of final destination
